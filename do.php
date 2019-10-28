@@ -1,1 +1,1 @@
-<?php abc?>
+<?php sleep(2);?>
